@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "Twitch Score Collector Extension",
 	"description": "Extension to automatically accumulate the points earned by watching your favourite streamers",
-	"version": "1.1",
+	"version": "1.2",
 	"action": {
 		"default_icon": "images/twTvChestPoints.png"
 	},
